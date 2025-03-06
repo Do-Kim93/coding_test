@@ -13,6 +13,7 @@ public class codeup {
                 for(int l = c.length-2; l >= i; l--){
                     System.out.print(0);
                 }
+
                 System.out.print("]");
                 System.out.println();
             }

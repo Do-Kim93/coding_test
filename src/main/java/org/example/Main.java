@@ -32,6 +32,7 @@ class Main {
                 System.out.print("*");//12. 별찍기
             }
             System.out.println();//13. 줄바꿈
+            //만약 여길 고치면 어떻게 되는거지????
         }
     }
 }
